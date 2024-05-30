@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">文件加解密</string>
+    <string name="encode">加密</string>
+    <string name="decode">解密</string>
+    <string name="meta_mismatch">文件头不匹配!!!!❌(您是否正在尝试解密非.reverse文件?)</string>
+    <string name="reversing_5_2f_d_d">处理中... %5.2f%% %d/%d</string>
+    <string name="file_recovered_d_d">\n文件已解密成功!!!🎉 %d/%d</string>
+    <string name="click_me">👉选择一个文件来加密/解密👈</string>
+    <string name="encode_title">加密</string>
+    <string name="decode_title">解密</string>
+</resources>

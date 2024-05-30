@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">aReverser</string>
+    <string name="encode">Encode</string>
+    <string name="decode">Decode</string>
+    <string name="meta_mismatch">Meta mismatch!!!!❌</string>
+    <string name="reversing_5_2f_d_d">Reversing... %5.2f%% %d/%d</string>
+    <string name="file_recovered_d_d">\nFile recovered!!!🎉 %d/%d</string>
+    <string name="click_me">👉Click Me👈</string>
+    <string name="encode_title">Encode</string>
+    <string name="decode_title">Decode</string>
+</resources>
